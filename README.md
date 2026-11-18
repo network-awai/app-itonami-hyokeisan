@@ -15,3 +15,7 @@ The experimental [integer grid](src/hyokeisan/grid.kotoba) and
 [snapshot-value evidence](docs/evidence/grid-snapshot-20261102.md) cover a
 bounded core, not a complete workbook or persistent storage. The candidate
 `hyokeisan.itonami.app` is not a claim of an available or deployed service.
+
+## Android
+
+See [the independent Tauri build](android/README.md).
